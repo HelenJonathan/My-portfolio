@@ -16,22 +16,22 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "Abit about my self",
     aboutme: "I am a software developer based in Lagos, Nigeria. I share my knowledge of web development through technical articles, public speaking, and social media.",
 };
 const worktimeline = [{
         jobtitle: "frontend Developer",
         where: "Nigeria",
-        date: "2020",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Frontend Developer",
+        where: "Nigeria",
+        date: "2021",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
+        jobtitle: "Frontend Developer",
+        where: "Nigeria",
         date: "2019",
     },
 ];
@@ -60,27 +60,27 @@ const skills = [{
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I create Impressive designs",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Mobile friendly application",
     },
     {
         title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I commicate with user through wordPress built site",
     },
 ];
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Movie-gallery-app",
+        link: "https://moviebox-ten.vercel.app/",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Dragable-images.",
+        link: "https://draggable-image-gallery.vercel.app/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
@@ -90,7 +90,7 @@ const dataportfolio = [{
     {
         img: "https://picsum.photos/400/600/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://drag-dropimages-8mx89lc39-helenjonathan.vercel.app/signIn",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
@@ -136,21 +136,21 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "helenjonathan333@gmail.com",
+    YOUR_FONE: "(+234)7025199185",
+    description: "Reach out  to me for further enquiries",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    // YOUR_SERVICE_ID: "service_id",
+    // YOUR_TEMPLATE_ID: "template_id",
+    // YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/HelenJonathan/My-portfolio",
+    facebook: "https://web.facebook.com/misshelenefebe/",
+    linkedin: "https://www.linkedin.com/in/helen-efebe/",
+    twitter: "https://twitter.com/Helenefebe",
 };
 export {
     meta,
